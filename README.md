@@ -9,7 +9,7 @@
 </div>
 ---
 
-### :fire: My Stats :
+### 🦊: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&hide=SCSS,CSS,EJS,HTML&langs_count=5&&theme=nightowl&card_width=450px&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
