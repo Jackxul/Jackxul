@@ -18,9 +18,7 @@ My Name is Jack , a student in NTUST major in CSIE. Learning about how to code n
 [![Jack_Xul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jackxul&theme=nightowl&show_icons=true)](https://github.com/Jackxul?tab=repositories)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=NGLAB_Ticket_System&show_owner=true)](https://github.com/Jackxul/NGLAB_Ticket_System) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Makefile&show_owner=true)](https://github.com/Jackxul/Makefile) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=NGLAB_Ticket_System&show_owner=true)](https://github.com/Jackxul/NGLAB_Ticket_System) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Makefile&show_owner=true)](https://github.com/Jackxul/Makefile) 
 
 <!--
 **Jackxul/Jackxul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
