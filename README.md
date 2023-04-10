@@ -20,9 +20,9 @@ My Name is Jack , a student in NTUST major in CSIE. Learning about how to code n
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=NGLAB_Ticket_System&show_owner=true)](https://github.com/Jackxul/NGLAB_Ticket_System) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Makefile&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Makefile&show_owner=true)](https://github.com/Jackxul/Makefile) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Android_studio&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Android_studio&show_owner=true)](https://github.com/Jackxul/Android_studio)
 <!--
 **Jackxul/Jackxul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
