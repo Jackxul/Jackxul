@@ -10,12 +10,17 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Jack_Xul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackxul&theme=nightowl&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&hide=SCSS,CSS,EJS,HTML&langs_count=5&&theme=nightowl&card_width=450px&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=radical&repo=NGLAB_Ticket_System)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jackxul&theme=buefy&background=000000)](https://git.io/streak-stats)   ![Jack_Xul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jackxul&theme=nightowl&show_icons=true)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=NGLAB_Ticket_System&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Makefile&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Android_studio&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jackxul/Jackxul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
