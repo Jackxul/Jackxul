@@ -9,11 +9,13 @@ My Name is Jack , a 🇹🇼student in NTUST major in CSIE 💻. Learning about 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&hide=SCSS,CSS,EJS,HTML&langs_count=5&&theme=blueberry&card_width=400px) 
 ---
 
 ### 🦊: My Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&hide=SCSS,CSS,EJS,HTML&langs_count=5&&theme=blueberry&card_width=400px) [![Jack_Xul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jackxul&theme=nightowl&show_icons=true&card_width=400px)](https://github.com/Jackxul?tab=repositories)
+[![Jack_Xul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jackxul&theme=nightowl&show_icons=true)](https://github.com/Jackxul?tab=repositories)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=NGLAB_Ticket_System&show_owner=true)](https://github.com/Jackxul/NGLAB_Ticket_System) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Makefile&show_owner=true)](https://github.com/Jackxul/Makefile) 
