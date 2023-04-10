@@ -18,7 +18,7 @@ My Name is Jack , a student in NTUST major in CSIE. Learning about how to code n
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jackxul&theme=buefy&background=000000)](https://git.io/streak-stats)   ![Jack_Xul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jackxul&theme=nightowl&show_icons=true)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=NGLAB_Ticket_System&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=NGLAB_Ticket_System&show_owner=true)](https://github.com/Jackxul/NGLAB_Ticket_System) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Makefile&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) 
 
