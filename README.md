@@ -13,9 +13,9 @@ My Name is Jack , a student in NTUST major in CSIE. Learning about how to code n
 
 ### 🦊: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&hide=SCSS,CSS,EJS,HTML&langs_count=5&&theme=blueberry&card_width=450px&layout=compact)](https://github.com/Jackxul/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&hide=SCSS,CSS,EJS,HTML&langs_count=5&&theme=blueberry&card_width=450px&layout=compact)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jackxul&theme=react)](https://git.io/streak-stats)   ![Jack_Xul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jackxul&theme=nightowl&show_icons=true)
+![Jack_Xul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jackxul&theme=nightowl&show_icons=true)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=NGLAB_Ticket_System&show_owner=true)](https://github.com/Jackxul/NGLAB_Ticket_System) 
