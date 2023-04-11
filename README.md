@@ -24,8 +24,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&hide=SCSS,CSS,EJS,HTML&langs_count=5&&theme=blueberry&card_width=400px) 
+
+>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&hide=SCSS,CSS,EJS,HTML&langs_count=5&&theme=blueberry&card_width=400px) 
 ---
 
 ### 🦊: My Stats :
