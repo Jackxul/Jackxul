@@ -52,8 +52,6 @@ Languages
 
 ```
 ---
-### My Repo 📂
-
 <h2 align="center">📂 My Repositories 📂</h2>
 <br>
 <div width="100%" align="center">
