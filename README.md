@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 ### About Me 🐺
 - 🎓 I'm currently a CSIE student at NTUST
@@ -37,7 +37,8 @@
 
 ### 🦊: My Stats :
 
-[![Jack_Xul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jackxul&theme=nightowl&show_icons=true)](https://github.com/Jackxul?tab=repositories)
+| <a href="https://github.com/Jackxul?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jackxul&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Jackxul's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&&hide=SCSS,CSS,EJS,HTML&langs_count=5&layout=compact&theme=blueberry&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=NGLAB_Ticket_System&show_owner=true)](https://github.com/Jackxul/NGLAB_Ticket_System) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackxul&theme=buefy&repo=Makefile&show_owner=true)](https://github.com/Jackxul/Makefile) 
