@@ -37,12 +37,12 @@ Languages
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&hide=SCSS,CSS,EJS,HTML&langs_count=5&&theme=blueberry&card_width=400px) 
 ---
 
-### 🦊: My Stats :
+<h2 align="center">🦊 My Stats 🦊</h2>
 
 | <a href="https://github.com/Jackxul?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jackxul&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Jackxul's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&&hide=SCSS,CSS,EJS,HTML&langs_count=5&layout=compact&theme=blueberry&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-**I'm an Night Owl 🦉** 
+**I'm a Night Owl 🦉** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00% 
