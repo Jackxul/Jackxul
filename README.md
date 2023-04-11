@@ -31,8 +31,7 @@
   <li style="list-style-type: none; margin-bottom: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></li>
 </ul>
 
-
-
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackxul&hide=SCSS,CSS,EJS,HTML&langs_count=5&&theme=blueberry&card_width=400px) 
 ---
 
