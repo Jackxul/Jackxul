@@ -11,8 +11,9 @@
 ---
 
 ### Projects 🎆
-- [PDF App](https://github.com/Jackxul/Android_studio)
-- [NGLAB_sideproject1](https://github.com/Jackxul/NGLAB_Ticket_System)
+- [RTOS_practice](https://github.com/Jackxul/MyRTOSProject)
+- [LSTM_for_ITRI](https://github.com/Jackxul/LSTM-for-ITRI)
+- [MQTT](https://github.com/Jackxul/MQTT_Pi4)
 
 ### Education 🧑‍🎓
 > **Master of Science, Computer Science and Information Engineering**, NTUST 💻  
