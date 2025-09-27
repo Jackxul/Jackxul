@@ -6,7 +6,6 @@
 
 ### About Me 🐺
 - 🎓 I graduated from NTUST, CSIE (August 2025)
-- 🎓 I also graduated from Tamkang University, CSIE (June 2020)
 - 🌱 I'm passionate about learning new things and exploring new technologies
 - 🔭 I'm currently working on improving my coding skills
 ---
@@ -15,14 +14,20 @@
 - [PDF App](https://github.com/Jackxul/Android_studio)
 - [NGLAB_sideproject1](https://github.com/Jackxul/NGLAB_Ticket_System)
 
-
-
 ### Education 🧑‍🎓
-> BS in Computer Science and Information Engineering 💻, NTUST (Expected graduation year : 2024 🎓 )
+> **Master of Science, Computer Science and Information Engineering**, NTUST 💻  
+> September 2022 – August 2025
+
+> **Bachelor of Science, Computer Science and Information Engineering**, Tamkang University 💻  
+> September 2016 – June 2020
 
 ### Certifications 🏆
-- [Certification], [Issuing Organization], [Year]
-- [Certification], [Issuing Organization], [Year]
+- TOEIC Listening & Reading Test: **800 points** (Issued: September 29, 2024)
+- Paper Presentation: **21st IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS 2025)**  
+  Presented at Kogakuin University Shinjuku Campus, Tokyo, Japan  
+  Date: 20–22 August 2025  
+  [Conference Website](https://apwcs2025.info.kogakuin.ac.jp/)
+
 ---
 ###  Languages and Tools 🛠️
 
