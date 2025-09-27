@@ -7,7 +7,7 @@
 ### About Me 🐺
 - 🎓 I graduated from NTUST, CSIE (August 2025)
 - 🌱 I'm passionate about learning new things and exploring new technologies
-- 🔭 I'm currently working on improving my coding skills
+- 🔭 I'm currently working on improving my coding skills and learning RTOS
 ---
 
 ### Projects 🎆
