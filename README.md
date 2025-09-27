@@ -5,7 +5,8 @@
 </h1>
 
 ### About Me 🐺
-- 🎓 I'm currently a CSIE student at NTUST
+- 🎓 I graduated from NTUST, CSIE (August 2025)
+- 🎓 I also graduated from Tamkang University, CSIE (June 2020)
 - 🌱 I'm passionate about learning new things and exploring new technologies
 - 🔭 I'm currently working on improving my coding skills
 ---
