@@ -78,14 +78,13 @@ Sunday                   31 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    23 mins             █████████████████████████   99.58 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
