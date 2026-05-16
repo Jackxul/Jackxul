@@ -49,7 +49,43 @@ Languages
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2027%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.28%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+🌆 Daytime                96 commits          ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+🌃 Evening                162 commits         ███████████░░░░░░░░░░░░░░   43.67 % 
+🌙 Night                  99 commits          ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Tuesday                  96 commits          ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+Wednesday                72 commits          █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Saturday                 29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in C** 
 
