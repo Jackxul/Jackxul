@@ -90,11 +90,11 @@ No Activity Tracked This Week
 **I Mostly Code in C** 
 
 ```text
-C                        7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Rich Text Format         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+C                        7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Rich Text Format         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
